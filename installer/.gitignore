@@ -1,0 +1,9 @@
+vagrant/.*
+.DS_Store
+.idea/
+.vagrant/
+*.log
+*.retry
+
+provisioning/inventory/group_vars/prod.yml
+provisioning/inventory/group_vars/test.yml
